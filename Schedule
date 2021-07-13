@@ -22,4 +22,7 @@
 2021.07.06 PR-057 Mask R-CNN
 2021.07.07 PR-067 Audio Super Resolution using Neural Nets
 2021.07.09 PR-069 Efficient Neural Architecture Search via Parameter Sharing
+2021.07.10 PR-071 Categorical Reparameterization with Gumbel Softmax
+2021.07.13 PR-072 Deep Compression
+2021.07.15 PR-074 ObamaNet: Photo-realistic lip-sync from text 
 
