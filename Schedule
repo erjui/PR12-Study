@@ -27,5 +27,9 @@
 2021.07.15 PR-074 ObamaNet: Photo-realistic lip-sync from text 
 2021.07.20 PR-080 Practical Bayesian Optimization of Machine Learning Algorithms 
 2021.07.22 PR-083 Non-local Neural Networks
-2021.07.23 PR-087 Spectral Normalization for Generative Adversarial Networks
+2021.07.27 PR-088 Deep Variational Bayes Filters
+2021.07.28 PR-101 Deep Feature Consistent Variational Autoencoder
+2021.07.29 PR-108 MobileNetV2: Inverted Residuals and Linear Bottlenecks
+
+PR-087 Spectral Normalization for Generative Adversarial Networks
 
