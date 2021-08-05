@@ -30,6 +30,9 @@
 2021.07.27 PR-088 Deep Variational Bayes Filters
 2021.07.28 PR-101 Deep Feature Consistent Variational Autoencoder
 2021.07.29 PR-108 MobileNetV2: Inverted Residuals and Linear Bottlenecks
+2021.08.03 PR-087 Spectral Normalization for Generative Adversarial Networks I
+2021.08.04 PR-087 Spectral Normalization for Generative Adversarial Networks II
+2021.08.05 PR-116 Glow: Generative Flow with Invertible 1x1 Convolutions
 
-PR-087 Spectral Normalization for Generative Adversarial Networks
+
 
