@@ -37,3 +37,6 @@
 2021.08.11 PR-127 FaceNet
 2021.08.12 PR-132 SSD: Single Shot MultiBox Detectorv
 2021.08.17 PR-115 Unsupervised Anomaly Detection with Generative Adversarial Networks
+2021.08.24 PR-145 Language Models are Unsupervised Multitask Learners (OpenAI GPT-2)
+2021.08.25 PR-149 Perceptual Losses for Real-Time Style Transfer and Super-Resolution
+2021.08.26 PR-152 StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
