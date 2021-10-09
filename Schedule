@@ -42,14 +42,12 @@
 2021.08.26 PR-152 StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
 2021.10.02 PR-155 Exploring Randomly Wired Neural Networks for Image Recognition
 2021.10.03 PR-163 CNN Attention Networks
-
 2021.10.08 PR-165 Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
 2021.10.09 PR-169 EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 2021.10.12 PR-175 XLNet: Generalized Autoregressive Pretraining for Language Understanding
-
-Graph Convolutional Network
-MixMatch: A Holistic Approach to Semi-Supervised Learning
-Bag of Tricks for Image Classification with Convolutional Neural Networks
-A Closer Look at Few Shot Classification
+2021.10.13 PR-178 Graph Convolutional Network
+2021.10.14 PR-195 MixMatch: A Holistic Approach to Semi-Supervised Learning
+2021.10.19 PR-201 Bag of Tricks for Image Classification with Convolutional Neural Networks
+2021.10.20 PR-205 A Closer Look at Few Shot Classification
 
 
