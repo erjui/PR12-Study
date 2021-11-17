@@ -53,7 +53,9 @@
 2021.10.26 PR-206 PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud
 2021.10.27 PR-207 YOLOv3: An Incremental Improvement
 2021.10.28 PR-208 Unsupervised Visual Representation Learning Overview:Toward Self-Supervision
-2021.11.14 PR-217: EfficientDet: Scalable and Efficient Object Detection
+2021.11.14 PR-217 EfficientDet: Scalable and Efficient Object Detection
+2021.11.16 PR-231 A Simple Framework for Contrastive Learning of Visual Representations
+2021.11.17 PR-237 FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence
 
 
 
