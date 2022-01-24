@@ -68,5 +68,11 @@
 2021.12.08 PR-304 Pretrained Transformers As Universal Computation Engines
 2021.12.10 ~ 2021.12.31 Review on previous papers
 
+2022.03.16 PR-210 Self-training with Noisy Student improves ImageNet classification
+2022.03.18 PR-201 Bag of Tricks for Image Classification with Convolutional Neural Networks
+2022.03.21 PR-205 A Closer Look at Few Shot Classification
+2022.03.23 PR-206 PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud
+2022.03.25 PR-207 YOLOv3: An Incremental Improvement
+2022.03.28 PR-208 Unsupervised Visual Representation Learning Overview:Toward Self-Supervision
 
 
