@@ -75,4 +75,15 @@
 2022.03.25 PR-207 YOLOv3: An Incremental Improvement
 2022.03.28 PR-208 Unsupervised Visual Representation Learning Overview:Toward Self-Supervision
 
+2022.04.06 PR-305 Exploring Simple Siamese Representation Learning
+2022.04.08 PR-306 12-in-1: Multi-Task Vision and Language Representation Learning
+2022.04.11 PR-307 Meta Back Translation
+2022.04.13 PR-308 Visual Concept Reasoning Networks
+2022.04.15 PR-309 Switch Transformers: Scaling To Trillion Parameter Models WithSimple And Efficient Sparsity
+2022.04.18 PR-310 Self-supervised Pretraining of Visual Features in the Wild
+2022.04.20 PR-311 Learning to Navigate the Web
+2022.04.22 PR-312 Generative Models as Distributions of Functions
+2022.04.25 PR-313 Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs
+2022.04.27 PR-314 VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio, and Text
+2022.04.29 PR-315 Taming Transformers for High-Resolution Image Synthesis
 
