@@ -74,7 +74,6 @@
 2022.03.23 PR-206 PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud
 2022.03.25 PR-207 YOLOv3: An Incremental Improvement
 2022.03.28 PR-208 Unsupervised Visual Representation Learning Overview:Toward Self-Supervision
-
 2022.04.06 PR-305 Exploring Simple Siamese Representation Learning
 2022.04.08 PR-306 12-in-1: Multi-Task Vision and Language Representation Learning
 2022.04.11 PR-307 Meta Back Translation
@@ -86,4 +85,18 @@
 2022.04.25 PR-313 Training BatchNorm and Only BatchNorm: On the Expressive Power of Random Features in CNNs
 2022.04.27 PR-314 VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio, and Text
 2022.04.29 PR-315 Taming Transformers for High-Resolution Image Synthesis
+
+2022.05.02 PR-316 SceneGraphFusion: Incremental 3D Scene Graph Prediction from RGB-D Sequences
+2022.05.04 PR-317 MLP-Mixer: An all-MLP Architecture for Vision
+2022.05.06 PR-318 Emerging Properties in Self-Supervised Vision Transformers
+2022.05.09 PR-319 Interactive Multi-Label CNN Learning with Partial Labels
+2022.05.11 PR-320 Domain Invariant Representation Learning with Domain Density Transformations
+2022.05.13 PR-321 Are Pre-trained Convolutions Better than Pre-trained Transformers?
+2022.05.16 PR-322 Practical Diversified Recommendations on YouTube with Determinantal Point Processes
+2022.05.18 PR-323 Separation and Concentration in Deep Networks
+2022.05.20 PR-324 Recent Progress on Self Supervised Learning (LooC, Viewmaker, and Barlow Twins)
+2022.05.23 PR-325 Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers
+2022.05.25 PR-326 VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning
+2022.05.27 PR-327 Scaling Laws for Autoregressive Generative Modeling
+2022.05.30 PR-328 End-to-End Optimized Image Compression
 
