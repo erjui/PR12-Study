@@ -100,3 +100,19 @@
 2022.05.27 PR-327 Scaling Laws for Autoregressive Generative Modeling
 2022.05.30 PR-328 End-to-End Optimized Image Compression
 
+2022.06.01 PR-329 Early Convolutions Help Transformers See Better
+2022.06.03 PR-330 How To Train Your ViT? Data, Augmentation, and Regularization in Vision Transformers
+2022.06.06 PR-331 Revisiting the Calibration of Modern Neural Networks
+2022.06.08 PR-332 Deep Discriminative CNN with Temporal Ensembling for Ambiguously Labeled Image Classification
+2022.06.10 PR-333 Synthesizer: Rethinking Self-Attention for Transformer Models
+2022.06.13 PR-334 CMT: Convolutional Neural Networks Meet Vision Transformers
+2022.06.15 PR-335 Self-supervised Learning for Large-scale Item Recommendations
+2022.06.17 PR-336 Meta Pseudo Labels
+2022.06.20 PR-337 Multi-Scale Features in Transformers (Swin and CSWin Transformers)
+2022.06.22 PR-338 Alias-Free Generative Adversarial Networks (StyleGAN3)
+2022.06.24 PR-339 Maintaining discrimination and fairness in class incremental learning
+2022.06.27 PR-340 DVC: An End-to-end Deep Video Compression Framework
+2022.06.29 PR-341 Involution: Inverting the Inherence of Convolution for Visual Recognition
+2022.07.01 PR-342 Playable Video Generation
+
+
