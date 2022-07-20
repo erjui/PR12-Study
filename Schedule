@@ -122,11 +122,10 @@
 2022.07.13 PR-347 Semi-Supervised Learning of Visual Features by Non-Parametrically Predicting... (PAWS)
 2022.07.15 PR-348 Pix2seq: A Language Modeling Framework for Object Detection
 2022.07.18 PR-349 Adversarial Generation of Continuous Images
-
-2022.08.01 PR-350 Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation (CVPR 2021, 한국어 리뷰)
-2022.08.03 PR-351 Adaptive Aggregation Networks for Class-Incremental Learning
-2022.08.05 PR-352 ImageBART: Bidirectional Context with Multinomial Diffusion for AR Image Synthesis
-2022.08.08 PR-353 Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes
-2022.08.10 PR-354 Data-driven Interior Plan Generation for Residential Buildings & Graph2Plan
-2022.08.12 PR-355 Masked Autoencoders Are Scalable Vision Learners
+2022.07.20 PR-350 Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation (CVPR 2021)
+2022.07.22 PR-351 Adaptive Aggregation Networks for Class-Incremental Learning
+2022.07.25 PR-352 ImageBART: Bidirectional Context with Multinomial Diffusion for AR Image Synthesis
+2022.07.27 PR-353 Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes
+2022.07.29 PR-354 Data-driven Interior Plan Generation for Residential Buildings & Graph2Plan
+2022.08.01 PR-355 Masked Autoencoders Are Scalable Vision Learners
 
